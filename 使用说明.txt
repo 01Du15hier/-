@@ -1,0 +1,12 @@
+1、导入所有.sql文件到MySQL数据库
+2、打开Animal_expert_system.py文件，搜索pymysql.connect，将user和password参数修改为自己MySQL库的用户名和密码
+3、编译Animal_expert_system.py文件后直接运行
+
+
+
+
+
+
+
+
+

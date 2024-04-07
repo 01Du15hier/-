@@ -1,0 +1,44 @@
+创建规则表：
+create table rule(
+rule_num char(5),
+conclusion varchar(25),
+premise1 char(5),
+premise2 char(5),
+premise3 char(5),
+premise4 char(5),
+premise5 char(5),
+premise6 char(5),
+premise7 char(5),
+premise8 char(5)
+);
+
+创建原子命题表：
+create table Atomic_proposition(
+Atomic_proposition_num char(10),
+meaning varchar(25)
+);
+
+
+插入语句：
+insert into rule(rule_num,conclusion,premise1) values ("2","31","2");
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
